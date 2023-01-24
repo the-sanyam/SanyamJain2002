@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @the-sanyam
-- 👀 I’m interested in learning programming, web development, blockchain, and all other technical stuff.
+- 👀 I’m interested in learning programming, web development, data science, and all other technical stuff.
 - 🌱 I’m currently learning python and C/C++
 - 📫 you can contact me on :
 -     Email : sanyam.jain.2002.14@gmail.com
