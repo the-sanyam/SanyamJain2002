@@ -2,8 +2,8 @@
 - 👀 I’m interested in learning programming, web development, blockchain, and all other technical stuff.
 - 🌱 I’m currently learning python and C/C++
 - 📫 you can contact me on :
-     Email : sanyam.jain.2002.14@gmail.com
-     LinkedIn : https://www.linkedin.com/in/the-sanyam
+-     Email : sanyam.jain.2002.14@gmail.com
+-     LinkedIn : https://www.linkedin.com/in/the-sanyam
      
 - CodeForces profile : https://codeforces.com/profile/the-sanyam
 - CodeChef profile : https://www.codechef.com/users/sanyam_jain_14
